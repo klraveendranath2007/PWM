@@ -1,6 +1,7 @@
--# PWM
+# PWM
+## AIM
 Analyse PWM signal generation by developing a program to switch an LED ON and OFF at one-second intervals using PWM. Examine the configured PWM frequency and duty cycle. 
----
+
 
 ## Apparatus Required
 
