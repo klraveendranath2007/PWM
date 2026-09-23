@@ -34,9 +34,9 @@ Analyse PWM signal generation by developing a program to switch an LED ON and OF
 15. Run the program on the S32K144 board.
 
 ---
-## OUTPUT
-<img width="525" height="354" alt="image" src="https://github.com/user-attachments/assets/36f4b773-217b-487a-9205-6634e238126f"/>
 
+## OUTPUT
+<img width="525" height="354" alt="image" src="https://github.com/user-attachments/assets/72c4645e-5d89-444a-9331-72393bb6e1e3" />
 
 
 ## Result
