@@ -36,23 +36,8 @@ Analyse PWM signal generation by developing a program to switch an LED ON and OF
 ---
 ## OUTPUT
 
+<img width="599" height="499" alt="image" src="https://github.com/user-attachments/assets/3effe400-8b86-4747-ad0e-01c959481e7b" />
 
-
-..
-
-
-
-
-
-
-
-
-
-
-
-
-
----
 ## Result
 
 The LED was successfully switched **ON and OFF continuously at one-second intervals** using the **GPIO Toggle-Pin API** on the **S32K144** microcontroller. The output timing was observed and verified successfully.
