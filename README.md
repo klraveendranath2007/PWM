@@ -35,9 +35,7 @@ Analyse PWM signal generation by developing a program to switch an LED ON and OF
 
 ---
 ## OUTPUT
-
-
-<img width="599" height="499" alt="image" src="https://github.com/user-attachments/assets/76141147-e777-4a47-9034-baf5bdd80585" />
+<img width="525" height="354" alt="image" src="https://github.com/user-attachments/assets/36f4b773-217b-487a-9205-6634e238126f" />
 
 
 
